@@ -15,6 +15,6 @@ Features of this project are:
 	3) It is built on concept of keyword driven.
 	4) The test execution is statical.
 	5) It is capable to log the response received, headers, requestbody parameters and status code.
-        6) This project is capable to execute and validate :
+ 6) This project is capable to execute and validate :
 		> REST: POST, PUT, PATCH, DELETE and GET
 		> SOAP: GET and POST
